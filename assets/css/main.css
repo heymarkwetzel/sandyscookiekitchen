@@ -72,6 +72,12 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* CUSTOM
+	.crabs {
+		max-width: 60%;
+	}
+*/
+
 /* Basic */
 
 	@-ms-viewport {
